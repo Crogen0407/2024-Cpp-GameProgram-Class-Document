@@ -1,9 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T08:11:33.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="9hGfwLJzr5EPwar1YetF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T08:22:59.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PUGYr3tkADNUJGp8vuEB" version="24.6.4" type="github">
   <diagram name="페이지-1" id="HVwgaBPTn1TONlx-7drl">
-    <mxGraphModel>
+    <mxGraphModel dx="2607" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dlWETCVFvevYXkCvNZtn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-1" target="dlWETCVFvevYXkCvNZtn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-1" value="게임 시작" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-3" target="dlWETCVFvevYXkCvNZtn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-3" value="타이틀 씬" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-7" target="dlWETCVFvevYXkCvNZtn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-37" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dlWETCVFvevYXkCvNZtn-36">
+          <mxGeometry x="-0.14" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-7" value="게임 플레이를 선택했다면?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="230" width="196" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-9" target="dlWETCVFvevYXkCvNZtn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-9" value="게임 시작" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-12" target="dlWETCVFvevYXkCvNZtn-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414" y="970" />
+              <mxPoint x="240" y="970" />
+              <mxPoint x="240" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dlWETCVFvevYXkCvNZtn-17">
+          <mxGeometry x="-0.1875" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-21" target="dlWETCVFvevYXkCvNZtn-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-21" value="대화 출력" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-27" target="dlWETCVFvevYXkCvNZtn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-33" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dlWETCVFvevYXkCvNZtn-32">
+          <mxGeometry x="-0.5064" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dlWETCVFvevYXkCvNZtn-27" target="dlWETCVFvevYXkCvNZtn-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="670" />
+              <mxPoint x="600" y="1020" />
+              <mxPoint x="414" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-40" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dlWETCVFvevYXkCvNZtn-39">
+          <mxGeometry x="-0.1422" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-27" value="대화 출력이 완료되었다면?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="620" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-35" value="게임 종료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlWETCVFvevYXkCvNZtn-12" value="텍스트 출력이 끝났을 때&amp;nbsp;&lt;div&gt;스페이스/엔터키를 클릭했다면?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="800" width="240" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
